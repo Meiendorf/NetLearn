@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetLearn", "NetLearn\NetLearn.csproj", "{6B3ED62E-0827-478F-91F3-FC40960AFF6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameStore", "GameStore\GameStore.csproj", "{EB488BE6-4AC7-42A6-9D00-7497389A95D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B3ED62E-0827-478F-91F3-FC40960AFF6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B3ED62E-0827-478F-91F3-FC40960AFF6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B3ED62E-0827-478F-91F3-FC40960AFF6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B3ED62E-0827-478F-91F3-FC40960AFF6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB488BE6-4AC7-42A6-9D00-7497389A95D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB488BE6-4AC7-42A6-9D00-7497389A95D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB488BE6-4AC7-42A6-9D00-7497389A95D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB488BE6-4AC7-42A6-9D00-7497389A95D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
